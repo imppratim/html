@@ -1,4 +1,4 @@
 # html
 New HTML file
 
- https://imppratim.github.io/
+ https://imppratim.github.io/html/
